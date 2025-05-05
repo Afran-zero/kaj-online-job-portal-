@@ -1,8 +1,11 @@
 {
   "dependencies": {
+    "@faker-js/faker": "^9.7.0",
     "@reduxjs/toolkit": "^2.7.0",
     "axios": "^1.9.0",
+    "bcryptjs": "^3.0.2",
     "lucide-react": "^0.507.0",
+    "mongoose": "^8.14.1",
     "nodemailer": "^7.0.0",
     "passport": "^0.7.0",
     "passport-google-oauth20": "^2.0.0",
